@@ -9,7 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
     title="Python + FastApi + JWT Auth + RAG Pipeline + Voyage AI embeddings",
-    description="11-10-2026 - FastAPI with JWT Auth serving an RAG Application powered by Groq + Voyage AI embeddings",
+    description="11-10-2026 - FastAPI with JWT Auth serving an RAG Application powered by Groq + Voyage AI embeddings.",
     version="0.0.2",
     contact={
         "name": "Per Olsen",
