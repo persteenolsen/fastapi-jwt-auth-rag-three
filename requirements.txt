@@ -1,0 +1,20 @@
+# Python 3.12
+# FastAPI + JWT + PostgreSQL pgvector + Hugging Face + Groq RAG backend
+
+fastapi==0.115.6
+uvicorn==0.34.0
+python-dotenv==1.0.1
+
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+
+numpy==2.2.1
+
+PyJWT==2.10.1
+
+requests==2.32.3
+httpx==0.28.1
+
+groq==0.13.1
+
+python-multipart==0.0.20
