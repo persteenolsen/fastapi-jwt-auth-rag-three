@@ -10,7 +10,7 @@ The RAG pipeline returns source references **only when sufficiently relevant inf
 
 ## 📌 Project Info
 
-- **Last Updated:** 15-11-2026
+- **Last Updated:** 26-11-2026
 - **Python Version:** 3.12
 
 ---
